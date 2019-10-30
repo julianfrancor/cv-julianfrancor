@@ -1,3 +1,13 @@
 h1{
-    font-family: 'Tangerine', serif; 
+    font-family:sans-serif;
+    text-align: center;
+    background-color:white;
+    font-size: 40px
 }
+body{
+    background-color: aliceblue;
+    text-align: justify;
+    padding-right: 40px;
+    padding-left: 40px;    
+}
+
